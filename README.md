@@ -10,4 +10,4 @@ Right now I'm preparing for the PMP.
 
 **Tools:** Jira · GitHub · Slack · Microsoft Project · Microsoft Teams
 
-**Find me on LinkedIn:** [linkedin.com/in/seifbassem](https://www.linkedin.com/in/seifbassem/)
+
